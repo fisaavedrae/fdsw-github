@@ -39,11 +39,15 @@ body {
 }
 
 .navbar-brand img {
-  height: 60px;
+  height: 80px;
   width: 80px;
 
 }
 
 .nav-item :hover {
   text-decoration: underline;
+}
+
+.my-info {
+  color: powderblue;
 }
